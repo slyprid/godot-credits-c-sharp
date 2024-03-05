@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://tuyd4hjtefai"]
+[gd_scene load_steps=2 format=3 uid="uid://tuyd4hjtefai"]
+
+[ext_resource type="Script" path="res://credits-scene/scrolling_text.cs" id="1_ogtl1"]
 
 [node name="scrollingText" type="HBoxContainer"]
 anchors_preset = 10
@@ -7,6 +9,7 @@ offset_bottom = 23.0
 grow_horizontal = 2
 size_flags_vertical = 0
 alignment = 1
+script = ExtResource("1_ogtl1")
 
 [node name="margin" type="MarginContainer" parent="."]
 layout_mode = 2

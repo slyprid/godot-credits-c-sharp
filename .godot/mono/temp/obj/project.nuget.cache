@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dQJMNavJtXoOKi81XId8EDvLg4vUv2+neMAKh9K9sfsY/0vgleQhcjOd/5MHuMXcSkjjwWcJQ6WTeYuPFwVIA==",
+  "success": true,
+  "projectFilePath": "D:\\src\\Godot\\godot-credits-c-sharp\\godot-credits-c-sharp\\Credits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Slypr.000\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\Slypr.000\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\Slypr.000\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

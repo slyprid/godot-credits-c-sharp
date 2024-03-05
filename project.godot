@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="Credits"
-config/features=PackedStringArray("4.2")
+run/main_scene="res://credits-scene/credits.tscn"
+config/features=PackedStringArray("4.2", "C#")
 config/icon="res://icon.png"
 
 [dotnet]

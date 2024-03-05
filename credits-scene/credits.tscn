@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://ct4dek63v5j5j"]
 
-[ext_resource type="Script" path="res://credits-scene/credits.gd" id="1_3jpn6"]
+[ext_resource type="Script" path="res://credits-scene/credits.cs" id="1_hwrd3"]
 [ext_resource type="Texture2D" uid="uid://tsln7dwid0dq" path="res://credits-scene/exampleTitle.png" id="2_xutvm"]
 
 [node name="credits" type="Control"]
@@ -10,10 +10,9 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_3jpn6")
-creditsFile = "res://credits-scene/example-CREDITS"
-titleImage = ExtResource("2_xutvm")
-destroyOnEnd = true
+script = ExtResource("1_hwrd3")
+CreditsFile = "res://credits-scene/example-credits"
+TitleImage = ExtResource("2_xutvm")
 
 [node name="background" type="ColorRect" parent="."]
 layout_mode = 0
