@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709671268
+default_env.tres::Environment::-1::1709671218::0::1::::<><>::
+icon.png::CompressedTexture2D::3802997757974776705::1709671218::1709671268::1::::<><>::
+README.md::TextFile::-1::1709671218::0::1::::<><>::
+::res://credits-scene/::1709671218
+credits.gd::GDScript::-1::1709671218::0::1::::<>Control<>::
+credits.tscn::PackedScene::6166486219954353705::1709671218::0::1::::<><>::res://credits-scene/credits.gd<>uid://tsln7dwid0dq::::res://credits-scene/exampleTitle.png
+exampleTitle.png::CompressedTexture2D::1371439617328920818::1709671218::1709671268::1::::<><>::
+scrollingText.tscn::PackedScene::1376339683837177932::1709671218::0::1::::<><>::
+::res://screenshots/::1709671218
+options.png::CompressedTexture2D::2700816043767897232::1709671218::1709671268::1::::<><>::
+scrolling.png::CompressedTexture2D::8955184945636363110::1709671218::1709671268::1::::<><>::
